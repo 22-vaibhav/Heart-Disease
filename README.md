@@ -37,8 +37,8 @@ Saved files:
 
 ---
 
-```markdown
 ## 📂 Project Structure
+```markdown
 ```bash
 Heart Disease Finder/
 │
