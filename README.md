@@ -39,7 +39,6 @@ Saved files:
 
 ## 📂 Project Structure
 ```markdown
-```bash
 Heart Disease Finder/
 │
 ├── app.py
