@@ -63,10 +63,10 @@ Heart Disease Finder/
 - venv\Scripts\activate   # On Windows
 
 ### 3. Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### 4. Run the application
-python -m streamlit run app.py
+- python -m streamlit run app.py
 
 ---
 
